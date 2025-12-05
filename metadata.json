@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sci-Fi Air Canvas",
+  "description": "A futuristic gesture-controlled drawing application using MediaPipe. Write in the air, summon menus with an open palm, and dissolve drawings with a V-sign.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
